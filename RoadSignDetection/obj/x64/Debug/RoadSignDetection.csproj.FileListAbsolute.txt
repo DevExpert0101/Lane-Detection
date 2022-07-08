@@ -1,0 +1,62 @@
+D:\India\RoadSignDetection\x64\Debug\RoadSignDetection.exe.config
+D:\India\RoadSignDetection\x64\Debug\RoadSignDetection.exe
+D:\India\RoadSignDetection\x64\Debug\RoadSignDetection.pdb
+D:\India\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.csprojResolveAssemblyReference.cache
+D:\India\RoadSignDetection\RoadSignDetection\obj\x64\Debug\MainWindow.g.cs
+D:\India\RoadSignDetection\RoadSignDetection\obj\x64\Debug\App.g.cs
+D:\India\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection_MarkupCompile.cache
+D:\India\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection_MarkupCompile.lref
+D:\India\RoadSignDetection\RoadSignDetection\obj\x64\Debug\MainWindow.baml
+D:\India\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.g.resources
+D:\India\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.Properties.Resources.resources
+D:\India\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.csproj.GenerateResource.Cache
+D:\India\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.csproj.CoreCompileInputs.cache
+D:\India\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.exe
+D:\India\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.pdb
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\x64\Debug\RoadSignDetection.exe.config
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.exe
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.pdb
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\x64\Debug\RoadSignDetection.exe
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\x64\Debug\RoadSignDetection.pdb
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.csprojResolveAssemblyReference.cache
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\x64\Debug\MainWindow.g.cs
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\x64\Debug\App.g.cs
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection_MarkupCompile.cache
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection_MarkupCompile.lref
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\x64\Debug\MainWindow.baml
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.g.resources
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.Properties.Resources.resources
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.csproj.GenerateResource.Cache
+C:\Users\geotr\Desktop\RoadSignDetection\x64\Debug\RoadSignDetection.exe.config
+C:\Users\geotr\Desktop\RoadSignDetection\x64\Debug\RoadSignDetection.exe
+C:\Users\geotr\Desktop\RoadSignDetection\x64\Debug\RoadSignDetection.pdb
+C:\Users\geotr\Desktop\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.csproj.AssemblyReference.cache
+C:\Users\geotr\Desktop\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.csproj.SuggestedBindingRedirects.cache
+C:\Users\geotr\Desktop\RoadSignDetection\RoadSignDetection\obj\x64\Debug\MainWindow.g.cs
+C:\Users\geotr\Desktop\RoadSignDetection\RoadSignDetection\obj\x64\Debug\App.g.cs
+C:\Users\geotr\Desktop\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection_MarkupCompile.cache
+C:\Users\geotr\Desktop\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection_MarkupCompile.lref
+C:\Users\geotr\Desktop\RoadSignDetection\RoadSignDetection\obj\x64\Debug\MainWindow.baml
+C:\Users\geotr\Desktop\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.g.resources
+C:\Users\geotr\Desktop\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.Properties.Resources.resources
+C:\Users\geotr\Desktop\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.csproj.GenerateResource.cache
+C:\Users\geotr\Desktop\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.csproj.CoreCompileInputs.cache
+C:\Users\geotr\Desktop\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.csproj.CopyComplete
+C:\Users\geotr\Desktop\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.exe
+C:\Users\geotr\Desktop\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.pdb
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\x64\Debug\las parameters.ini
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\x64\Debug\RoadSignDetection.exe.config
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\x64\Debug\RoadSignDetection.exe
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\x64\Debug\RoadSignDetection.pdb
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\RoadSignDetection\obj\x64\Debug\MainWindow.g.cs
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\RoadSignDetection\obj\x64\Debug\App.g.cs
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection_MarkupCompile.cache
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection_MarkupCompile.lref
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\RoadSignDetection\obj\x64\Debug\MainWindow.baml
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.g.resources
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.Properties.Resources.resources
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.csproj.GenerateResource.cache
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.csproj.CopyComplete
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.exe
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.pdb
+D:\Mine\Working\C#\Traffic Detection\RoadSignDetection\RoadSignDetection\obj\x64\Debug\RoadSignDetection.csprojAssemblyReference.cache

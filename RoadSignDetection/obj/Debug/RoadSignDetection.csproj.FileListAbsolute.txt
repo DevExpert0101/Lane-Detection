@@ -1,0 +1,6 @@
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\bin\Debug\RoadSignDetection.exe.config
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\Debug\RoadSignDetection.csprojResolveAssemblyReference.cache
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\Debug\MainWindow.g.cs
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\Debug\App.g.cs
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\Debug\RoadSignDetection_MarkupCompile.cache
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\RoadSignDetection\obj\Debug\RoadSignDetection_MarkupCompile.lref

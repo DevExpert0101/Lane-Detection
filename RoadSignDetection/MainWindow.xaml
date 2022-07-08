@@ -1,0 +1,60 @@
+﻿<Window x:Class="VehicleCounter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VehicleCounter"
+        Closing="Window_Closing"
+        mc:Ignorable="d"
+        Title="app" Height="453" Width="729" Icon="/las.png">
+    <Grid Margin="6">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="373*"/>
+            <ColumnDefinition Width="49*"/>
+            <ColumnDefinition Width="188*"/>
+            <ColumnDefinition Width="177*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.ColumnSpan="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="397*"/>
+                <ColumnDefinition Width="141*"/>
+                <ColumnDefinition Width="250"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Column="0" x:Name="txtFilePath" FontSize="14" FontWeight="Bold" VerticalAlignment="Center" Margin="10,0,10,0" Grid.ColumnSpan="2"><InlineUIContainer>
+                    <ToolBarPanel Height="100" Width="100"/>
+                </InlineUIContainer></TextBlock>
+            <TextBlock Grid.Column="2" x:Name="txtlane_result" FontSize="14" FontWeight="Bold" VerticalAlignment="Center" Margin="10,0,10,0"/>
+        </Grid>
+        <Grid Grid.ColumnSpan="4" Margin="0,30,0,0" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="83*"/>
+                <ColumnDefinition Width="308*"/>
+
+            </Grid.ColumnDefinitions>
+            <Border BorderThickness="1" Margin="0,4" Grid.ColumnSpan="2" BorderBrush="{DynamicResource {x:Static SystemColors.ControlDarkDarkBrushKey}}">
+                <Image x:Name="imgPreview" Margin="-1" Stretch="Fill"/>
+            </Border>
+            <Image x:Name="imgPreview_2" Margin="329.638,10,10,234.123" Opacity="0.7" UseLayoutRounding="False" Grid.Column="1"/>
+
+        </Grid>
+        <Grid Grid.Row="1" Grid.ColumnSpan="4" Height="170" VerticalAlignment="Top" Margin="0,89,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="60"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Column="0" Text="Factor" FontSize="14" FontWeight="Bold" VerticalAlignment="Center" Margin="10,0" Visibility="Hidden"/>
+            <TextBox x:Name ="txt_Factor" Grid.Column="1" Text="1" BorderThickness="1" BorderBrush="#FFD5D5D5" FontSize="18"  Height="30" Visibility="Hidden"/>
+            <Button x:Name="btnStart" Content="Run" Width="50" Click="BtnStart_Click" Grid.Column="3"  HorizontalAlignment="Right" Margin="0,55,0,75" Height="40" Opacity="0.7" FontStretch="Medium"/>
+            <Button x:Name="btnStop" Content="Stop" Width="50" Height="40" Click="BtnStop_Click" Grid.Column="3" HorizontalAlignment="Right" Margin="0,100,0,30" Opacity="0.7"/>
+            <Button x:Name="btnFileSelect" Content="Open" Width="80" Click="BtnOpenFile_Click" Height="40" Margin="0,10,0,120" HorizontalAlignment="Right" Grid.Column="3"/>
+        </Grid>
+    </Grid>
+</Window>

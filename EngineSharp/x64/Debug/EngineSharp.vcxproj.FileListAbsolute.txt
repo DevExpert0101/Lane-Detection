@@ -1,0 +1,1 @@
+C:\Users\geotr\Desktop\RoadSignDetection\EngineSharp\x64\Debug\EngineSharp.vcxproj.AssemblyReference.cache

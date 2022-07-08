@@ -1,0 +1,2 @@
+D:\Work\Work - PROJECT Himanshu\111. NSV\6. NSV_Inventry_Software\NSV_Inventry_Software-GUI\NSV_Inventry_Software-GUI-R0.1\RoadSignDetection1\RoadSignDetection\EngineSharp\x64\Release\EngineSharp.vcxprojAssemblyReference.cache
+C:\Users\geotr\Desktop\RoadSignDetection\EngineSharp\x64\Release\EngineSharp.vcxproj.AssemblyReference.cache
